@@ -40,3 +40,4 @@ Linux Enumeration 101 is a hands-on cybersecurity lab inspired by real-world pen
 - VMware Workstation
 - Nmap
 - Gob
+Here is the linkk: https://tryhackme.com/jr/linuxenumeration1018N
