@@ -41,5 +41,9 @@ Linux Enumeration 101 is a hands-on cybersecurity lab inspired by real-world pen
 - Nmap
 - Gob
 
+  Screenshots:
+  <img width="1663" height="878" alt="image" src="https://github.com/user-attachments/assets/2c887fab-7fc9-4c85-bbac-8cc7d50acc5a" />
+
+
   
 Here is the linkk: https://tryhackme.com/jr/linuxenumeration1018N
