@@ -43,6 +43,12 @@ Linux Enumeration 101 is a hands-on cybersecurity lab inspired by real-world pen
 
   Screenshots:
   <img width="1663" height="878" alt="image" src="https://github.com/user-attachments/assets/2c887fab-7fc9-4c85-bbac-8cc7d50acc5a" />
+  <img width="1663" height="878" alt="image" src="https://github.com/user-attachments/assets/81e64fd1-d50b-438e-a8eb-3c3f88ad5808" />
+  <img width="1663" height="878" alt="image" src="https://github.com/user-attachments/assets/6265aac6-6b00-4cb9-9698-edb168f22f13" />
+  <img width="1663" height="878" alt="image" src="https://github.com/user-attachments/assets/ec0348aa-94f1-4777-ba0b-8bc1764a4eea" />
+
+
+
 
 
   
